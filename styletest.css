@@ -3,13 +3,33 @@ body {
 }
 
 h1  {
-  color: #000;
+  color: #a00;
 }
 
-div#test01 {
+#test01 {
   color: #00a;
+}
+
+#test02 {
+  color:yellow;
 }
 
 .important {
   color: #a00;
+}
+
+.last3 {
+  font-weight:bold;
+}
+
+td,th {
+  border: solid thin;
+}
+
+.name{
+  text-align:center;
+}
+
+.ol{
+  background-color: lightgray;
 }
